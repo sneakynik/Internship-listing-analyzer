@@ -59,4 +59,4 @@ Top 10 companies hiring interns:
 
 ## Author
 
-Nylan Mack — [GitHub](https://github.com/sneaknik) · [LinkedIn](https://www.linkedin.com/in/nylan-mack-830438339)
+Nylan Mack — [GitHub](https://github.com/sneakynik) · [LinkedIn](https://www.linkedin.com/in/nylan-mack-830438339)
